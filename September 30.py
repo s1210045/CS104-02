@@ -17,5 +17,5 @@ scoreCount = scoreCount + 1
 
 #To turn into a string, print average.
 average= total / numberOfScores
-print ("The average of the test score is: " +str(average))
+print("The average of the test score is: " +str(average))
 
