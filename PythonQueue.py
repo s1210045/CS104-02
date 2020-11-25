@@ -2,7 +2,7 @@
 
 names = []
 for x in range(0,10):
-    Name = input("Enter Name: ")
+    Name = input("Enter Name: ") 
     names.append(Name)
 
 
